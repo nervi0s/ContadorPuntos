@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contador Puntos</string>
+    <string name="team1">Equipo 1</string>
+    <string name="team2">Equipo 2</string>
+    <string name="name1">Nombre 1</string>
+    <string name="name2">Nombre 2</string>
+    <string name="botonMain">Confirmar</string>
+    <string name="up3p">+3 Puntos</string>
+    <string name="up2p">+2 Puntos</string>
+    <string name="up1p">Tiro Libre</string>
+    <string name="reset">Reset</string>
+</resources>
